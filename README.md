@@ -1,6 +1,14 @@
-# People.LIMITLESS-POTENTIAL-TECHNOLOGIES
+# People.Spencer Frame
+# Person:
+name: Spencer Frame
+
 # Home:
 https://www.youtube.com/@MadscienceLPTECH
+https://www.instagram.com/madscience369
+https://socialblade.com/instagram/user/madscience369
+
+# Username:
+- LIMITLESS-POTENTIAL-TECHNOLOGIES
 
 # Video:
 - [Unlimited Energy in My Garage (No Patents)](https://youtu.be/Yn8GlIq45H0)
